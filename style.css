@@ -19,3 +19,7 @@ main > h2 {
     text-align: center;
     font-size: 25px;
   }
+
+p {
+    border-left 12px;
+}
