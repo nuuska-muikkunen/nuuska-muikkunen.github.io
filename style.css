@@ -20,7 +20,7 @@ main > h2 {
     font-size: 25px;
   }
 
-p {
+.intent {
     border-left 24px;
     margin-left 24px;
 }
